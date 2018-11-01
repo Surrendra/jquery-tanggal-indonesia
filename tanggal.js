@@ -29,4 +29,3 @@ function makeTanggal(tgl,kvalue) {
     $('#'+tgl).datepicker('show');
 }
 
-// copy I Made Surendra
